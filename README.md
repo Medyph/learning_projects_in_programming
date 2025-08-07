@@ -1,19 +1,3 @@
----
-topics:
-  - python
-  - cpp
-  - education
-  - algorithms
-  - beginner
-  - learning
-  - python
-  - university
-  - algorithms
-  - practice
-  - coding-examples
-  - student-project
----
-
 
 📚 **Programming Learning Projects**
 
