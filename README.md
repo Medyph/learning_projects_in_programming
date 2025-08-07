@@ -1,10 +1,10 @@
-📚 Programming Learning Projects
+📚 **Programming Learning Projects**
 
-This repository contains my educational coding projects and experiments created while learning programming.
+*This repository contains my educational coding projects and experiments created while learning programming.*
 
 🛠 Technologies  
-- **Languages**: Python, C++  
-- **Tools**: Jupyter Notebook, Visual Studio Code  
+- Languages: Python, C++  
+- Tools: Jupyter Notebook, Visual Studio Code  
 
 🔍 Key Features  
 - Thoroughly commented code  
@@ -28,9 +28,9 @@ I welcome constructive feedback!
 
 ---------------------------------------------------------------------
 
-📚 Учебные проекты по программированию
+📚 **Учебные проекты по программированию**
 
-Этот репозиторий содержит мои учебные работы и эксперименты в процессе изучения программирования.
+*Этот репозиторий содержит мои учебные работы и эксперименты в процессе изучения программирования.*
 
 🛠 Технологии
 - Языки: Python, C++
